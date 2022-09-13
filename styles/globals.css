@@ -1,0 +1,6 @@
+@import url('http://fonts.cdnfonts.com/css/sf-mono');
+@import url('http://fonts.cdnfonts.com/css/calibre');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
